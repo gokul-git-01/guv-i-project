@@ -1,0 +1,14 @@
+node_modules/
+.env
+.DS_Store
+dist/
+*.log
+build.sh
+deploy.sh
+.cache/
+coverage/
+.dockerignore
+*.pid
+*.tar
+docker-compose.override.yml
+
